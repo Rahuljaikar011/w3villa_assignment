@@ -1,0 +1,52 @@
+body{
+   background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);   
+    font-family: 'Poppins', sans-serif;
+ }
+ .container{
+    width: 500px;
+    padding: 33px;
+    text-align: center;
+    background-image: radial-gradient(circle, #435064, #426f89, #3590a6, #2db2b9, #4cd4be);
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 50px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px solid rgb(6, 145, 145);
+    outline: none;
+    font-size: 19px;
+
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(4, 29, 29);
+    color: white;
+    border: none;
+    cursor: pointer;
+
+    outline: none;
+    border-radius: 2px;
+    font-size: 19px;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(5, 31, 31);
+    color: white;
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
